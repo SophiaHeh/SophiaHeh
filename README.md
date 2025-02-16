@@ -4,6 +4,6 @@
 
 
 - 📚 CS @ NEU MSCS
-- ⚡  FullStack Developer and Data Analyst
+- ⚡  software engineer
 
 
